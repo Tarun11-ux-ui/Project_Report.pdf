@@ -27,7 +27,7 @@ A cryptocurrency analysis dashboard built using Microsoft Excel.
 Dataset contains top 200 cryptocurrency records.
 
 ## Website
-GitHub Pages Link
+https://cryptocurrency-dashboard-hcmz.onrender.com/
 
 ## Author
 Tarun Tomar
